@@ -1,0 +1,2 @@
+# UNIVERSITE_2019-2022
+This project marks the culmination of three years of study at the university institute LES COURS SONOU speciality: COMPUTER SYSTEMS AND SOFTWARE I had to work on the theme "DESIGN AND REALIZATION OF A PLATFORM OF FOLLOW-UP AND REMINDER OF VACCINATION" the reminder of the date of vaccination of the children to the parents was made with the API TWILLIO. This project involves 3 actors: the administrator, the patient and the health worker.
